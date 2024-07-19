@@ -125,12 +125,8 @@
 
 🎬軍G∈◎影視,#genre#
 
-NOW星影台,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
-NOW爆谷台,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
-
-NOW爆谷台,http://60.208.140.180/NOW爆谷/香蕉哥专用-易發TV.live.flv
-NOW星影台,http://60.208.140.180/NOW星影/香蕉哥专用-易發TV.live.flv
-
+Now星影台,http://111.160.76.101:80/香蕉哥/now星影.live.flv
+Now爆谷台,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
 CHC影迷电影,mitv://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
 CHC动作电影,mitv://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
 CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
