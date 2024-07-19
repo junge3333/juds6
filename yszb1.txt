@@ -1,21 +1,57 @@
 
+🎬测试1,#genre#
+林正英 1,http://zzy789.xyz/douyu1.php?id=7356023
+林正英 2,http://zzy789.xyz/douyu1.php?id=218859
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=218859
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=413573
+斗鱼频道,http://zzy789.xyz/douyu1.php?id=9292492
+
+鬼片恐怖,http://zzy789.xyz/douyu1.php?id=2935323
+恐怖故事,http://zzy789.xyz/douyu1.php?id=2337939
+怡寳影院,http://zzy789.xyz/douyu1.php?id=434971
+粤语电影,http://zzy789.xyz/douyu1.php?id=6566671
+苹果影院,http://zzy789.xyz/douyu1.php?id=2793084
+午夜故事,http://zzy789.xyz/douyu1.php?id=8722254
+译制国语,http://zzy789.xyz/douyu1.php?id=2436390
+蚂蚱影院,http://zzy789.xyz/douyu1.php?id=6079455
+纪录片,http://zzy789.xyz/douyu1.php?id=4360438
+贝爷求生,http://zzy789.xyz/douyu1.php?id=454867
+恐怖丧尸鬼片,http://zzy789.xyz/douyu1.php?id=263824
+斗鱼电影10,http://zzy789.xyz/douyu1.php?id=2935323
+斗鱼电影22,http://zzy789.xyz/douyu1.php?id=1979257
+斗鱼电影26,http://zzy789.xyz/douyu1.php?id=8413092
+斗鱼电影71,http://zzy789.xyz/douyu1.php?id=2987100
+斗鱼电影81,http://zzy789.xyz/douyu1.php?id=3870925
+斗鱼电影97,http://zzy789.xyz/douyu1.php?id=8867878
+斗鱼电影105,http://zzy789.xyz/douyu1.php?id=4290711
+斗鱼电影108,http://zzy789.xyz/douyu1.php?id=6566671
+斗鱼电影110,http://zzy789.xyz/douyu1.php?id=8415464
+斗鱼电影111,http://zzy789.xyz/douyu1.php?id=8475821
+斗鱼电影113,http://zzy789.xyz/douyu1.php?id=5522351
+斗鱼电影114,http://zzy789.xyz/douyu1.php?id=562225
+斗鱼电影116,http://zzy789.xyz/douyu1.php?id=8651489
+斗鱼电影117,http://zzy789.xyz/douyu1.php?id=338759
+斗鱼电影120,http://zzy789.xyz/douyu1.php?id=5354713
+斗鱼电影124,http://zzy789.xyz/douyu1.php?id=2793084
+斗鱼电影125,http://zzy789.xyz/douyu1.php?id=5067952
+斗鱼电影129,http://zzy789.xyz/douyu1.php?id=413573
+斗鱼电影130,http://zzy789.xyz/douyu1.php?id=8014467
+斗鱼电影134,http://zzy789.xyz/douyu1.php?id=6725858
+斗鱼电影135,http://zzy789.xyz/douyu1.php?id=7476264
+斗鱼电影137,http://zzy789.xyz/douyu1.php?id=1274132
+斗鱼电影141,http://zzy789.xyz/douyu1.php?id=7623292
+斗鱼电影145,http://zzy789.xyz/douyu1.php?id=5033502
+斗鱼电影151,http://zzy789.xyz/douyu1.php?id=426517
+斗鱼电影153,http://zzy789.xyz/douyu1.php?id=8799435
+斗鱼电影155,http://zzy789.xyz/douyu1.php?id=4258555
+斗鱼电影158,http://zzy789.xyz/douyu1.php?id=8788687
+斗鱼电影165,http://zzy789.xyz/douyu1.php?id=8705754
+斗鱼电影169,http://zzy789.xyz/douyu1.php?id=7528160
 
 
-🎬测试,#genre#
+🎬测试2,#genre#
 
-
-
-电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
-电视剧频道2,http://zby.xjqxz.top/dsdsj2/live.m3u8
-电视剧频道3,http://zby.xjqxz.top/dsdsj3/live.m3u8
-电视剧频道4,http://zby.xjqxz.top/gzwxj/live.m3u8
-电视剧频道5,http://zby.xjqxz.top/gzdsj1/live.m3u8
-电视剧频道6,http://zby.xjqxz.top/gzdsj2/live.m3u8
-电视剧频道7,http://zby.xjqxz.top/gzdsj3/live.m3u8
-电视剧频道8,http://zby.xjqxz.top/gzdsj4/live.m3u8
-电视剧频道9,http://zby.xjqxz.top/gzdsj5/live.m3u8
-电视剧频道10,http://zby.xjqxz.top/dzzypd/live.m3u8
-电视剧频道11,http://zby.xjqxz.top/dzzypd2/live.m3u8
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
 电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
@@ -31,14 +67,17 @@
 电影_警匪,http://cfss.cc/cdn/hy/11352886.flv
 电影_罪犯,http://cfss.cc/cdn/hy/11352962.flv
 电影_枪战,http://cfss.cc/cdn/hy/21059579.flv
+电影_海盗,http://cfss.cc/cdn/hy/21059595.flv
 电影_赛车,http://cfss.cc/cdn/hy/11279247.flv
 电影_推荐,http://cfss.cc/cdn/hy/11602041.flv
+电影_救援,http://cfss.cc/cdn/hy/21059594.flv
 电影_热血,http://cfss.cc/cdn/hy/11352934.flv
 电影_盗墓,http://cfss.cc/cdn/hy/21059552.flv
 电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
 电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
 电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
-电影_喜剧,http://cfss.cc/cdn/hy/11352877.fl
+电影_战争,http://cfss.cc/cdn/hy/21059592.flv
+电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
 电影_港片,http://cfss.cc/cdn/hy/11602043.flv
 电影_国产,http://cfss.cc/cdn/hy/11352973.flv
 电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
@@ -48,7 +87,9 @@
 电影_许冠英,http://cfss.cc/cdn/hy/11601972.flv
 电影_刘德华,http://cfss.cc/cdn/hy/11342424.flv
 电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+电影_小鬼头,http://cfss.cc/cdn/hy/11352963.flv
 电影_八点档,http://cfss.cc/cdn/hy/880261.flv
+电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
 电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
 电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
 电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
@@ -72,22 +113,85 @@
 电影_女神系列,http://cfss.cc/cdn/hy/11336571.flv
 电影_经典女神,http://cfss.cc/cdn/hy/11352909.flv
 电影_许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
-电影_经典港片,http://cfss.cc/cdn/hy/11352965.f
+电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
 电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
+电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
 电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
 电影_蘑菇影厅,http://cfss.cc/cdn/hy/11601981.flv
 电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
 电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
+电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
 
+电影_英叔,https://live.metshop.top/huya/11342421
+电影_发哥,https://live.metshop.top/huya/11342387
+电影_成龙,https://live.metshop.top/huya/11342386
+电影_王晶,https://live.metshop.top/huya/11602058
+电影_沈腾,https://live.metshop.top/huya/11601968
+电影_黄渤,https://live.metshop.top/huya/11352876
+电影_强森,https://live.metshop.top/huya/21059581
+电影_漫威,https://live.metshop.top/huya/11602034
+电影_宇宙,https://live.metshop.top/huya/11342428
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_警匪,https://live.metshop.top/huya/11352886
+电影_罪犯,https://live.metshop.top/huya/11352962
+电影_枪战,https://live.metshop.top/huya/21059579
+电影_海盗,https://live.metshop.top/huya/21059595
+电影_赛车,https://live.metshop.top/huya/11279247
+电影_推荐,https://live.metshop.top/huya/11602041
+电影_救援,https://live.metshop.top/huya/21059594
+电影_热血,https://live.metshop.top/huya/11352934
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_战争,https://live.metshop.top/huya/21059592
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_港片,https://live.metshop.top/huya/11602043
+电影_国产,https://live.metshop.top/huya/11352973
+电影_周星星,https://live.metshop.top/huya/11336587
+电影_李连杰,https://live.metshop.top/huya/11342390
+电影_洪金宝,https://live.metshop.top/huya/11279251
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_刘德华,https://live.metshop.top/huya/11342424
+电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
+电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
+电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
+电影_战争,http://cfss.cc/cdn/hy/21059592.flv
+电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
+电影_国产,http://cfss.cc/cdn/hy/11352973.flv
+电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
+电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
+电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+电影_八点档,http://cfss.cc/cdn/hy/880261.flv
+电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
+电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
+电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
+电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
+电影_丧尸片,http://cfss.cc/cdn/hy//21059578.flv
+电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
+电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
+电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
+电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
+电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
+电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
+电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
+电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
+电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
+电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
+电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
+电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
+电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
+电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
+电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
+电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
+电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
+电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
+电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
 
 
-爆谷台,http://60.208.140.180/NOW爆谷/香蕉哥专用-易發TV.live.flv
-星影台,http://60.208.140.180/NOW星影/香蕉哥专用-易發TV.live.flv
-爆谷台1,http://115.171.80.136:8888/香蕉哥/now爆谷.live.flv
-星影台1,http://115.171.80.136:8888/香蕉哥/now星影.live.flv
-爆谷台2,http://159.75.85.63:35455/香蕉哥/now爆谷.live.flv
-星影台2,http://159.75.85.63:35455/香蕉哥/now星影.live.flv
+
 
 
 电影_英叔,https://live.metshop.top/huya/11342421
@@ -1645,7 +1749,9 @@ NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/
 
 
 🌸斗鱼頻道,#genre#
+
 吃米滴虫,http://maomao.kandiantv.cn/douyu1.php?id=315457
+吃奶滴虫,https://www.goodiptv.club/douyu/263824
 冰冰经典,http://maomao.kandiantv.cn/douyu1.php?id=74374
 星爷影院,http://maomao.kandiantv.cn/douyu1.php?id=508118
 瑶瑶恐怖,http://maomao.kandiantv.cn/douyu1.php?id=2935323
@@ -1674,3 +1780,21 @@ NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/
 贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
 译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
 小宇60帧✔原,http://maomao.kandiantv.cn/douyu1.php?id=323876
+大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
+凌儿影院,https://www.goodiptv.club/douyu/1377142
+麓山迷踪,https://www.goodiptv.club/douyu/4505431
+神乐剧场,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐剧院,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐影剧原,https://www.goodiptv.club/douyu/122402
+欧美大片,https://www.goodiptv.club/douyu/2793084
+贝爷max ,https://www.goodiptv.club/douyu/4332
+小猪优版剧院,https://www.goodiptv.club/douyu/10297898
+赵本山经小品,https://www.goodiptv.club/douyu/9817716
+开心麻花小品,https://www.goodiptv.club/douyu/10153463
+宋小宝小品台,https://www.goodiptv.club/douyu/9817729
+粤语集轮播台,https://www.goodiptv.club/douyu/10338873
+粤语轮播港剧,https://www.goodiptv.club/douyu/9019945
+粤语经典综艺,https://www.goodiptv.club/douyu/7919720
+粤语版电影一,https://www.goodiptv.club/douyu/5033502
+粤语版电影二,https://www.goodiptv.club/douyu/6566671
+粤语版电影三,https://www.goodiptv.club/douyu/1226741
