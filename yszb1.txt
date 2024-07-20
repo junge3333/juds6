@@ -188,7 +188,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 精彩影视[1920x1080],http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 
 
-??虎牙轮播??全网,#genre#
+🎬虎牙轮播-全网,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
 电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
@@ -329,159 +329,9 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
 
-??斗鱼轮播??全网,#genre#
-林正英 1,http://zzy789.xyz/douyu1.php?id=7356023
-林正英 2,http://zzy789.xyz/douyu1.php?id=218859
-鬼片恐怖,http://zzy789.xyz/douyu1.php?id=2935323
-恐怖故事,http://zzy789.xyz/douyu1.php?id=2337939
-怡寳影院,http://zzy789.xyz/douyu1.php?id=434971
-粤语电影,http://zzy789.xyz/douyu1.php?id=6566671
-苹果影院,http://zzy789.xyz/douyu1.php?id=2793084
-午夜故事,http://zzy789.xyz/douyu1.php?id=8722254
-译制国语,http://zzy789.xyz/douyu1.php?id=2436390
-蚂蚱影院,http://zzy789.xyz/douyu1.php?id=6079455
-纪录片,http://zzy789.xyz/douyu1.php?id=4360438
-贝爷求生,http://zzy789.xyz/douyu1.php?id=454867
-恐怖丧尸鬼片,http://zzy789.xyz/douyu1.php?id=263824
-译制国语,http://zzy789.xyz/douyu1.php?id=2436390
-
-贝爷求生,http://zzy789.xyz/douyu1.php?id=454867
-
-恐怖丧尸鬼片,http://zzy789.xyz/douyu1.php?id=263824
-
-荒野建造者,http://zzy789.xyz/douyu1.php?id=9611578
-
-邦德影院,http://zzy789.xyz/douyu1.php?id=9292499
-
-特辑影院,http://zzy789.xyz/douyu1.php?id=3637778
-
-惊悚影院,http://zzy789.xyz/douyu1.php?id=96577
-
-吃米滴虫,http://zzy789.xyz/douyu1.php?id=315457
-
-漫威影片,http://zzy789.xyz/douyu1.php?id=6140589
-
-刘德华电影1,http://zzy789.xyz/douyu1.php?id=2516864
-
-豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422
-
-林正英电影2,http://zzy789.xyz/douyu1.php?id=7356023
-
-宇哥电影,http://zzy789.xyz/douyu1.php?id=413573
-
-贝爷影厅2,http://zzy789.xyz/douyu1.php?id=36337
-
-霍格影片,http://zzy789.xyz/douyu1.php?id=8814650
-冰冰经典电影,http://zzy789.xyz/douyu1.php?id=4374
-
-避风港影院,http://zzy789.xyz/douyu1.php?id=9826611
-
-恐怖经典,http://zzy789.xyz/douyu1.php?id=1165374
-
-华语电影,http://zzy789.xyz/douyu1.php?id=3928
-
-喜剧电影,http://zzy789.xyz/douyu1.php?id=9292492
-
-一起看恐怖片,http://zzy789.xyz/douyu1.php?id=9412287
-
-片荒的日子,http://zzy789.xyz/douyu1.php?id=4258555
-
-大胡子魏,http://zzy789.xyz/douyu1.php?id=8792763
-
-童年回忆,http://zzy789.xyz/douyu1.php?id=8915074
-
-下饭神剧,http://zzy789.xyz/douyu1.php?id=276200
-
-悬疑犯罪,http://zzy789.xyz/douyu1.php?id=9171887
-
-不一样的电影,http://zzy789.xyz/douyu1.php?id=2632223
-
-开心锤锤,http://zzy789.xyz/douyu1.php?id=9018297
-
-凛冬之地,http://zzy789.xyz/douyu1.php?id=8945323
-
-看美剧,http://zzy789.xyz/douyu1.php?id=8869614
-
-动漫直播,http://zzy789.xyz/douyu1.php?id=1487654
-鬼片恐怖,http://zzy789.xyz/douyu1.php?id=2935323
-
-恐怖故事,http://zzy789.xyz/douyu1.php?id=2337939
-
-科幻动作,http://zzy789.xyz/douyu1.php?id=4332
-
-怡寳影院,http://zzy789.xyz/douyu1.php?id=434971
-
-粤语电影,http://zzy789.xyz/douyu1.php?id=6566671
-
-苹果影院,http://zzy789.xyz/douyu1.php?id=2793084
-
-午夜故事,http://zzy789.xyz/douyu1.php?id=8722254
-
-译制国语,http://zzy789.xyz/douyu1.php?id=2436390
-
-蚂蚱影院,http://zzy789.xyz/douyu1.php?id=6079455
-
-纪录片,http://zzy789.xyz/douyu1.php?id=4360438
-
-贝爷求生,http://zzy789.xyz/douyu1.php?id=454867
-
-恐怖丧尸鬼片,http://zzy789.xyz/douyu1.php?id=263824
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=218859
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=413573
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=9292492
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
-
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=2436390
-
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=218859
-
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=413573
-
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=9292492
-斗鱼频道,http://zzy789.xyz/douyu1.php?id=1274132
-斗鱼电影10,http://zzy789.xyz/douyu1.php?id=2935323
-斗鱼电影22,http://zzy789.xyz/douyu1.php?id=1979257
-斗鱼电影26,http://zzy789.xyz/douyu1.php?id=8413092
-斗鱼电影71,http://zzy789.xyz/douyu1.php?id=2987100
-斗鱼电影81,http://zzy789.xyz/douyu1.php?id=3870925
-斗鱼电影97,http://zzy789.xyz/douyu1.php?id=8867878
-斗鱼电影105,http://zzy789.xyz/douyu1.php?id=4290711
-斗鱼电影108,http://zzy789.xyz/douyu1.php?id=6566671
-斗鱼电影110,http://zzy789.xyz/douyu1.php?id=8415464
-斗鱼电影111,http://zzy789.xyz/douyu1.php?id=8475821
-斗鱼电影113,http://zzy789.xyz/douyu1.php?id=5522351
-斗鱼电影114,http://zzy789.xyz/douyu1.php?id=562225
-斗鱼电影116,http://zzy789.xyz/douyu1.php?id=8651489
-斗鱼电影117,http://zzy789.xyz/douyu1.php?id=338759
-斗鱼电影120,http://zzy789.xyz/douyu1.php?id=5354713
-斗鱼电影124,http://zzy789.xyz/douyu1.php?id=2793084
-斗鱼电影125,http://zzy789.xyz/douyu1.php?id=5067952
-斗鱼电影129,http://zzy789.xyz/douyu1.php?id=413573
-斗鱼电影130,http://zzy789.xyz/douyu1.php?id=8014467
-斗鱼电影134,http://zzy789.xyz/douyu1.php?id=6725858
-斗鱼电影135,http://zzy789.xyz/douyu1.php?id=7476264
-斗鱼电影137,http://zzy789.xyz/douyu1.php?id=1274132
-斗鱼电影141,http://zzy789.xyz/douyu1.php?id=7623292
-斗鱼电影145,http://zzy789.xyz/douyu1.php?id=5033502
-斗鱼电影151,http://zzy789.xyz/douyu1.php?id=426517
-斗鱼电影153,http://zzy789.xyz/douyu1.php?id=8799435
-斗鱼电影155,http://zzy789.xyz/douyu1.php?id=4258555
-斗鱼电影158,http://zzy789.xyz/douyu1.php?id=8788687
-斗鱼电影165,http://zzy789.xyz/douyu1.php?id=8705754
-斗鱼电影169,http://zzy789.xyz/douyu1.php?id=7528160
 
 
-
-
-
-
-
-
-
-
-
-??堆堆轮播??全网,#genre#
+🎬堆堆轮播-全网,#genre#
 埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv 
 埋堆堆2,http://cfss.cc/cdn/hy/23735126.flv 
 埋堆堆3,http://cfss.cc/cdn/hy/23865152.flv 
@@ -502,7 +352,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv 
 埋堆堆19,source:http://cfss.cc/cdn/hy/23728674.flv
 
-YY轮播??全网,#genre#
+🎬YY轮播-全网,#genre#
 林正英,https://sslproxy.yy.com:4443/livesystem/15013_xv_34229877_34229877_0_0_0-15013_xa_34229877_34229877_0_0_0.m3u8?org=streamsvr&uuid=f371b3af13ce465e912ffa201c515973&t=1721400643&tk=ecca612a9c06487b2f8c89346323f14c&appid=15013&r=enter&playeruid=0
 林正英2,https://sslproxy.yy.com:4443/livesystem/15013_xv_1453996620_1453996620_0_0_0-15013_xa_1453996620_1453996620_0_0_0.m3u8?org=streamsvr&uuid=ff64bb612d9b427985976750901b86ce&t=1721400940&tk=6984ee51a0f716fd27f2e44f2e3afeeb&appid=15013&r=enter&playeruid=2095228103
 林正英3,https://sslproxy.yy.com:4443/livesystem/15013_xv_1382841203_1382841203_0_0_0-15013_xa_1382841203_1382841203_0_0_0.m3u8?org=streamsvr&uuid=b2455ac517264d27ae8d88ead9e4e24c&t=1721401857&tk=8779a94cd1f4d7213b863be2849adc3d&appid=15013&r=enter&playeruid=2104862422
@@ -563,46 +413,31 @@ YY影视,https://bd-flv.yy.com/live/15013_xv_1351186084_1351186084_0_0_0-15013_x
 
 
 
-刘德华,http://11.xmyxc.cn/api/php/yy.php?id=1382745111
-
-周润发,http://11.xmyxc.cn/api/php/yy.php?id=1354888733
-
-周润发,http://11.xmyxc.cn/api/php/yy.php?id=1354889044
-李连杰,http://11.xmyxc.cn/api/php/yy.php?id=74613175
-
-洪金宝,http://11.xmyxc.cn/api/php/yy.php?id=1354924839
-
-武侠港片,http://11.xmyxc.cn/api/php/yy.php?id=1451866697
-张国荣,http://11.xmyxc.cn/api/php/yy.php?id=1354930961
 
 惊恐鬼怪,http://11.xmyxc.cn/api/php/yy.php?id=1382749525
-
 超级鬼片,http://11.xmyxc.cn/api/php/yy.php?id=1355641195
-
 经典鬼片,http://11.xmyxc.cn/api/php/yy.php?id=29460894
-
 恐怖电影,http://11.xmyxc.cn/api/php/yy.php?id=24066336
-
 香港鬼片,http://11.xmyxc.cn/api/php/yy.php?id=1382737886
-
 香港电影,http://11.xmyxc.cn/api/php/yy.php?id=1382736910
-
 经典电影,http://11.xmyxc.cn/api/php/yy.php?id=1450556636
 港片电影,http://11.xmyxc.cn/api/php/yy.php?id=1459801818
-
 超英集结,http://11.xmyxc.cn/api/php/yy.php?id=1382745091
-
 漫威英雄,http://11.xmyxc.cn/api/php/yy.php?id=1354932402
-
 哥斯拉,http://11.xmyxc.cn/api/php/yy.php?id=1382736833
-
 大话西游,http://11.xmyxc.cn/api/php/yy.php?id=1382851590
-
 林正英1,http://11.xmyxc.cn/api/php/yy.php?id=34229877
 林正英2,http://11.xmyxc.cn/api/php/yy.php?id=1453996620
 林正英3,http://11.xmyxc.cn/api/php/yy.php?id=1382841203
 林正英全集,http://11.xmyxc.cn/api/php/yy.php?id=1353685311
 林正英合集,http://11.xmyxc.cn/api/php/yy.php?id=1354932444
+刘德华,http://11.xmyxc.cn/api/php/yy.php?id=1382745111
+周润发,http://11.xmyxc.cn/api/php/yy.php?id=1354888733
+周润发,http://11.xmyxc.cn/api/php/yy.php?id=1354889044
+李连杰,http://11.xmyxc.cn/api/php/yy.php?id=74613175
+洪金宝,http://11.xmyxc.cn/api/php/yy.php?id=1354924839
+武侠港片,http://11.xmyxc.cn/api/php/yy.php?id=1451866697
+张国荣,http://11.xmyxc.cn/api/php/yy.php?id=1354930961
 科幻电影,http://11.xmyxc.cn/api/php/yy.php?id=1354930209
 科幻电影2,http://11.xmyxc.cn/api/php/yy.php?id=1354930897
 科幻电影3,ttp://11.xmyxc.cn/api/php/yy.php?id=1382745114
