@@ -242,7 +242,7 @@ YY影视,https://bd-flv.yy.com/live/15013_xv_1351186084_1351186084_0_0_0-15013_x
 科幻电影3,ttp://11.xmyxc.cn/api/php/yy.php?id=1382745114
 科幻电影4,ttp://11.xmyxc.cn/api/php/yy.php?id=1382747628
 怪兽电影,http://11.xmyxc.cn/api/php/yy.php?id=1354930181
-院线大片,1354936142
+院线大片,http://11.xmyxc.cn/api/php/yy.php?id=1354936142
 古惑仔,http://11.xmyxc.cn/api/php/yy.php?id=1458015189
 港片赌片,http://11.xmyxc.cn/api/php/yy.php?id=1355076627
 绝版电影,http://11.xmyxc.cn/api/php/yy.php?id=1455988450
