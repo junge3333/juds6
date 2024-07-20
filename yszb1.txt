@@ -1,5 +1,36 @@
 🎬测试1,#genre#
-
+电影_英叔,https://live.metshop.top/huya/11342421
+电影_发哥,https://live.metshop.top/huya/11342387
+电影_成龙,https://live.metshop.top/huya/11342386
+电影_王晶,https://live.metshop.top/huya/11602058
+电影_沈腾,https://live.metshop.top/huya/11601968
+电影_黄渤,https://live.metshop.top/huya/11352876
+电影_强森,https://live.metshop.top/huya/21059581
+电影_漫威,https://live.metshop.top/huya/11602034
+电影_宇宙,https://live.metshop.top/huya/11342428
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_警匪,https://live.metshop.top/huya/11352886
+电影_罪犯,https://live.metshop.top/huya/11352962
+电影_枪战,https://live.metshop.top/huya/21059579
+电影_海盗,https://live.metshop.top/huya/21059595
+电影_赛车,https://live.metshop.top/huya/11279247
+电影_推荐,https://live.metshop.top/huya/11602041
+电影_救援,https://live.metshop.top/huya/21059594
+电影_热血,https://live.metshop.top/huya/11352934
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_战争,https://live.metshop.top/huya/21059592
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_港片,https://live.metshop.top/huya/11602043
+电影_国产,https://live.metshop.top/huya/11352973
+电影_周星星,https://live.metshop.top/huya/11336587
+电影_李连杰,https://live.metshop.top/huya/11342390
+电影_洪金宝,https://live.metshop.top/huya/11279251
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_刘德华,https://live.metshop.top/huya/11342424
 
 🎬軍G∈◎影視,#genre#
 Now星影台,http://111.160.76.101:80/香蕉哥/now星影.live.flv
@@ -312,52 +343,6 @@ YY影视,http://11.xmyxc.cn/api/php/yy.php?id=13511860
 哥斯拉,http://11.xmyxc.cn/api/php/yy.php?id=1382736833
 大话西游,http://11.xmyxc.cn/api/php/yy.php?id=1382851590
 
-
-
-
-🎬堆堆轮播-全网,#genre#
-埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv 
-埋堆堆2,http://cfss.cc/cdn/hy/23735126.flv 
-埋堆堆3,http://cfss.cc/cdn/hy/23865152.flv 
-埋堆堆4,http://cfss.cc/cdn/hy/23903196.flv 
-埋堆堆5,http://cfss.cc/cdn/hy/23740156.flv 
-埋堆堆6,http://cfss.cc/cdn/hy/23728660.flv 
-埋堆堆7,http://cfss.cc/cdn/hy/23865058.flv 
-埋堆堆8,http://cfss.cc/cdn/hy/23734183.flv 
-埋堆堆9,http://cfss.cc/cdn/hy/23865036.flv 
-埋堆堆10,http://cfss.cc/cdn/hy/23734246.flv 
-埋堆堆11,http://cfss.cc/cdn/hy/23863796.flv 
-埋堆堆12,http://cfss.cc/cdn/hy/23749083.flv 
-埋堆堆13,http://cfss.cc/cdn/hy/23824164.flv 
-埋堆堆14,http://cfss.cc/cdn/hy/23863804.flv 
-埋堆堆15,http://cfss.cc/cdn/hy/23865142.flv 
-埋堆堆16,http://cfss.cc/cdn/hy/23903183.flv 
-埋堆堆17,http://cfss.cc/cdn/hy/23903130.flv 
-埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv 
-埋堆堆19,http://cfss.cc/cdn/hy/23728674.flv
-
-埋堆堆1,http://cfss.cc/cdn/hy/23749096
-埋堆堆2,http://cfss.cc/cdn/hy/23735126
-埋堆堆3,http://cfss.cc/cdn/hy/23865152
-埋堆堆4,http://cfss.cc/cdn/hy/23903196
-埋堆堆5,http://cfss.cc/cdn/hy/23740156
-埋堆堆6,http://cfss.cc/cdn/hy/23728660
-埋堆堆7,http://cfss.cc/cdn/hy/23865058
-埋堆堆8,http://cfss.cc/cdn/hy/23734183
-埋堆堆9,http://cfss.cc/cdn/hy/23865036
-埋堆堆10,http://cfss.cc/cdn/hy/23734246
-埋堆堆11,http://cfss.cc/cdn/hy/23863796
-埋堆堆12,http://cfss.cc/cdn/hy/23749083
-埋堆堆13,http://cfss.cc/cdn/hy/23824164
-埋堆堆14,http://cfss.cc/cdn/hy/23863804
-埋堆堆15,http://cfss.cc/cdn/hy/23865142
-埋堆堆16,http://cfss.cc/cdn/hy/23903183
-埋堆堆17,http://cfss.cc/cdn/hy/23903130
-埋堆堆18,http://cfss.cc/cdn/hy/23734169
-埋堆堆19,http://cfss.cc/cdn/hy/23728674
-
-
-
 🎬虎牙轮播👉全网,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
@@ -497,6 +482,52 @@ YY影视,http://11.xmyxc.cn/api/php/yy.php?id=13511860
 电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
 电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
 电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
+
+
+
+🎬堆堆轮播-全网,#genre#
+埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv 
+埋堆堆2,http://cfss.cc/cdn/hy/23735126.flv 
+埋堆堆3,http://cfss.cc/cdn/hy/23865152.flv 
+埋堆堆4,http://cfss.cc/cdn/hy/23903196.flv 
+埋堆堆5,http://cfss.cc/cdn/hy/23740156.flv 
+埋堆堆6,http://cfss.cc/cdn/hy/23728660.flv 
+埋堆堆7,http://cfss.cc/cdn/hy/23865058.flv 
+埋堆堆8,http://cfss.cc/cdn/hy/23734183.flv 
+埋堆堆9,http://cfss.cc/cdn/hy/23865036.flv 
+埋堆堆10,http://cfss.cc/cdn/hy/23734246.flv 
+埋堆堆11,http://cfss.cc/cdn/hy/23863796.flv 
+埋堆堆12,http://cfss.cc/cdn/hy/23749083.flv 
+埋堆堆13,http://cfss.cc/cdn/hy/23824164.flv 
+埋堆堆14,http://cfss.cc/cdn/hy/23863804.flv 
+埋堆堆15,http://cfss.cc/cdn/hy/23865142.flv 
+埋堆堆16,http://cfss.cc/cdn/hy/23903183.flv 
+埋堆堆17,http://cfss.cc/cdn/hy/23903130.flv 
+埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv 
+埋堆堆19,http://cfss.cc/cdn/hy/23728674.flv
+
+埋堆堆1,http://cfss.cc/cdn/hy/23749096
+埋堆堆2,http://cfss.cc/cdn/hy/23735126
+埋堆堆3,http://cfss.cc/cdn/hy/23865152
+埋堆堆4,http://cfss.cc/cdn/hy/23903196
+埋堆堆5,http://cfss.cc/cdn/hy/23740156
+埋堆堆6,http://cfss.cc/cdn/hy/23728660
+埋堆堆7,http://cfss.cc/cdn/hy/23865058
+埋堆堆8,http://cfss.cc/cdn/hy/23734183
+埋堆堆9,http://cfss.cc/cdn/hy/23865036
+埋堆堆10,http://cfss.cc/cdn/hy/23734246
+埋堆堆11,http://cfss.cc/cdn/hy/23863796
+埋堆堆12,http://cfss.cc/cdn/hy/23749083
+埋堆堆13,http://cfss.cc/cdn/hy/23824164
+埋堆堆14,http://cfss.cc/cdn/hy/23863804
+埋堆堆15,http://cfss.cc/cdn/hy/23865142
+埋堆堆16,http://cfss.cc/cdn/hy/23903183
+埋堆堆17,http://cfss.cc/cdn/hy/23903130
+埋堆堆18,http://cfss.cc/cdn/hy/23734169
+埋堆堆19,http://cfss.cc/cdn/hy/23728674
+
+
+
 
 軍G∈◎港台影院,#genre#
 美亚电影国,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
