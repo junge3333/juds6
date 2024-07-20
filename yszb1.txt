@@ -14,9 +14,10 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 真武侠台,http://live.dxms.top/dwy/zwx.php
 经典武侠台,http://live.dxms.top/dwy/jdgf.php
 经典武侠台,http://cfss.cc/cdn/yy/1355002394.flv
-星光影视,http://11.xmyxc.cn/api/php/yy.php?id=353422557
-星光综合台,http://live.dxms.top/dwy/xgzht.php
-星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星光综合台,https://bd-flv.yy.com/live/15013_xv_1353422557_1353422557_0_0_0-15013_xa_1353422557_1353422557_0_0_0-0-0-0-0-0-1721320388893445.flv?codec=orig&appid=15013&rts_tk=854d26e84fb8b1ec527ae901a0fd6ac2&secret=5b188920739eca02041cfd05c2439d45&t=1721544850&stream_key=15013_xv_1353422557_1353422557_0_0_0&r_stream_key=15013_xa_1353422557_1353422557_0_0_0&channelid=1353422557&mtk=1&line_seq=6&cp_id=4&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter&playeruid=0&uuid=9870edde-08b9-4e81-8b12-2d8de4645ab8
+星光综合台,http://11.xmyxc.cn/api/php/yy.php?id=1353422557
+星光电影台,http://live.dxms.top/dwy/xgzht.php
+星光电影台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 重温经典,http://117.114.153.1:8180/TV00000000000000000007@HHZT
 1905电影(亚洲),http://live.dxms.top/dwy/hyyy.php
 1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
