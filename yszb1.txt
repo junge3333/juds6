@@ -14,6 +14,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 真武侠台,http://live.dxms.top/dwy/zwx.php
 经典武侠台,http://live.dxms.top/dwy/jdgf.php
 经典武侠台,http://cfss.cc/cdn/yy/1355002394.flv
+星光影视,http://11.xmyxc.cn/api/php/yy.php?id=353422557
 星光综合台,http://live.dxms.top/dwy/xgzht.php
 星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 重温经典,http://117.114.153.1:8180/TV00000000000000000007@HHZT
@@ -356,7 +357,7 @@ YY影视,http://11.xmyxc.cn/api/php/yy.php?id=13511860
 
 
 
-虎牙轮播👉全网,#genre#
+🎬虎牙轮播👉全网,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
 电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
