@@ -332,7 +332,27 @@ YY影视,http://11.xmyxc.cn/api/php/yy.php?id=13511860
 埋堆堆16,http://cfss.cc/cdn/hy/23903183.flv 
 埋堆堆17,http://cfss.cc/cdn/hy/23903130.flv 
 埋堆堆18,http://cfss.cc/cdn/hy/23734169.flv 
-埋堆堆19,source:http://cfss.cc/cdn/hy/23728674.flv
+埋堆堆19,http://cfss.cc/cdn/hy/23728674.flv
+
+埋堆堆1,http://cfss.cc/cdn/hy/23749096
+埋堆堆2,http://cfss.cc/cdn/hy/23735126
+埋堆堆3,http://cfss.cc/cdn/hy/23865152
+埋堆堆4,http://cfss.cc/cdn/hy/23903196
+埋堆堆5,http://cfss.cc/cdn/hy/23740156
+埋堆堆6,http://cfss.cc/cdn/hy/23728660
+埋堆堆7,http://cfss.cc/cdn/hy/23865058
+埋堆堆8,http://cfss.cc/cdn/hy/23734183
+埋堆堆9,http://cfss.cc/cdn/hy/23865036
+埋堆堆10,http://cfss.cc/cdn/hy/23734246
+埋堆堆11,http://cfss.cc/cdn/hy/23863796
+埋堆堆12,http://cfss.cc/cdn/hy/23749083
+埋堆堆13,http://cfss.cc/cdn/hy/23824164
+埋堆堆14,http://cfss.cc/cdn/hy/23863804
+埋堆堆15,http://cfss.cc/cdn/hy/23865142
+埋堆堆16,http://cfss.cc/cdn/hy/23903183
+埋堆堆17,http://cfss.cc/cdn/hy/23903130
+埋堆堆18,http://cfss.cc/cdn/hy/23734169
+埋堆堆19,http://cfss.cc/cdn/hy/23728674
 
 
 
@@ -667,34 +687,6 @@ JET综合,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 恐怖电影2[1280*720],http://huanqiuzhibo.cn/manifest/douyu.php?id=96577
 邵氏电影[1280*720],http://lxajh.top/tv/douyu.php?id=4246519
 60帧电影,http://zzy789.xyz/douyu1.php?id=747764
-
-
-
-
-
-
-
-🎬堆堆影院,#genre#
-埋堆堆1,http://cfss.cc/cdn/hy/23749096
-埋堆堆2,http://cfss.cc/cdn/hy/23735126
-埋堆堆3,http://cfss.cc/cdn/hy/23865152
-埋堆堆4,http://cfss.cc/cdn/hy/23903196
-埋堆堆5,http://cfss.cc/cdn/hy/23740156
-埋堆堆6,http://cfss.cc/cdn/hy/23728660
-埋堆堆7,http://cfss.cc/cdn/hy/23865058
-埋堆堆8,http://cfss.cc/cdn/hy/23734183
-埋堆堆9,http://cfss.cc/cdn/hy/23865036
-埋堆堆10,http://cfss.cc/cdn/hy/23734246
-埋堆堆11,http://cfss.cc/cdn/hy/23863796
-埋堆堆12,http://cfss.cc/cdn/hy/23749083
-埋堆堆13,http://cfss.cc/cdn/hy/23824164
-埋堆堆14,http://cfss.cc/cdn/hy/23863804
-埋堆堆15,http://cfss.cc/cdn/hy/23865142
-埋堆堆16,http://cfss.cc/cdn/hy/23903183
-埋堆堆17,http://cfss.cc/cdn/hy/23903130
-埋堆堆18,http://cfss.cc/cdn/hy/23734169
-埋堆堆19,http://cfss.cc/cdn/hy/23728674
-
 
 
 
