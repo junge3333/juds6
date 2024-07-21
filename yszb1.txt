@@ -11,7 +11,6 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 邵氏影院,http://159.75.85.63:35455/douyu/4246519 
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,https://www.goodiptv.club/douyu/4246519
-真武侠台,,http://124.248.69.76:35455/huya/29169712
 真武侠台,http://cfss.cc/cdn/hy/29169712.m3u8
 真武侠台,http://live.dxms.top/dwy/zwx.php
 经典武侠台,http://live.dxms.top/dwy/jdgf.php
