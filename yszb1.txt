@@ -1,4 +1,60 @@
 🎬测试1,#genre#
+
+🎬軍G∈◎影視,#genre#
+Now星影台,http://111.160.76.101:80/香蕉哥/now星影.live.flv
+Now爆谷台,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
+CHC影迷电影,mitv://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
+CHC动作电影,mitv://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
+CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
+邵氏影院,http://159.75.85.63:35455/douyu/4246519 
+邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519 
+邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+邵氏影院,https://www.goodiptv.club/douyu/4246519
+真武侠台,http://cfss.cc/cdn/hy/29169712.m3u8
+真武侠台,http://live.dxms.top/dwy/zwx.php
+经典武侠台,http://live.dxms.top/dwy/jdgf.php
+经典武侠台,http://11.xmyxc.cn/api/php/yy.php?id=1355002394
+经典武侠台,http://cfss.cc/cdn/yy/1355002394.flv
+星光综合台,https://bd-flv.yy.com/live/15013_xv_1353422557_1353422557_0_0_0-15013_xa_1353422557_1353422557_0_0_0-0-0-0-0-0-1721320388893445.flv?codec=orig&appid=15013&rts_tk=854d26e84fb8b1ec527ae901a0fd6ac2&secret=5b188920739eca02041cfd05c2439d45&t=1721544850&stream_key=15013_xv_1353422557_1353422557_0_0_0&r_stream_key=15013_xa_1353422557_1353422557_0_0_0&channelid=1353422557&mtk=1&line_seq=6&cp_id=4&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter&playeruid=0&uuid=9870edde-08b9-4e81-8b12-2d8de4645ab8
+星光综合台,http://11.xmyxc.cn/api/php/yy.php?id=1353422557
+星光电影台,http://live.dxms.top/dwy/xgzht.php
+星光电影台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+重温经典,http://117.114.153.1:8180/TV00000000000000000007@HHZT
+1905电影(亚洲),http://live.dxms.top/dwy/hyyy.php
+1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
+1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
+天映频道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
+天映频道,https://histar-proxy.isus.cc/celestial
+天映经典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
+天映经典,https://histar-proxy.isus.cc/cccm
+美亚电影国,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
+美亚电影国,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+美亚电影粤,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
+東森電影,https://bsex.serv00.net/Smart.php?id=ettvmovie
+東森电影台,mitv://135.148.104.228:19806/08435f286ac744a0942899c551209779
+東森电影台,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
+東森电影台,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+東森电影台,p2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
+纬来电影台,mitv://135.148.104.228:19806/429796f5f00946fa933e400729286c7e
+纬来电影台,p2p://108.181.20.159:75326/62c860e50008ea96c1ae9a96599c6947 
+纬来电影台,mitv://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
+龙祥电影台,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
+龙祥电影台,mitv://135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a 
+龙华电影台,mitv://135.148.104.228:19806/1df6f5f0993a46faa17f676518654709 
+龙华电影台,mitv://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
+龙华电影台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn03
+靖天电影台,mitv://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
+靖天电影台,mitv://135.148.104.228:19806/d8c581e0e1a24823a3d2110e3584ef8b 
+壹电视电影台,mitv://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352 
+壹电视电影台,mitv://135.148.104.228:19806/1be1329b6d124745a87a16de445d2352 
+影迷数位电影台,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6 
+影迷数位电影台,mitv://135.148.104.228:19806/bc069c037478448a9e41dbc3e1d5d0f6 
+金马影院,http://pull.kktv8.com/livekktv/128600025.flv
+好人影视,https://ali.hlspull.yximgs.com/live/1234566.flv
+
+
+🎬斗鱼影院👉全网,#genre#
+
 林正英 1,http://159.75.85.63:35455/douyu/7356023
 林正英 2,http://159.75.85.63:35455/douyu/218859
 刘德华电影1,http://159.75.85.63:35455/douyu/2516864
@@ -126,60 +182,14 @@
 斗鱼电影165,http://159.75.85.63:35455/douyu/8705754
 斗鱼电影169,http://159.75.85.63:35455/douyu/=7528160
 
-🎬軍G∈◎影視,#genre#
-Now星影台,http://111.160.76.101:80/香蕉哥/now星影.live.flv
-Now爆谷台,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
-CHC影迷电影,mitv://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
-CHC动作电影,mitv://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
-CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
-邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519 
-邵氏影院,http://159.75.85.63:35455/douyu/4246519 
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-邵氏影院,https://www.goodiptv.club/douyu/4246519
-真武侠台,http://cfss.cc/cdn/hy/29169712.m3u8
-真武侠台,http://live.dxms.top/dwy/zwx.php
-经典武侠台,http://live.dxms.top/dwy/jdgf.php
-经典武侠台,http://11.xmyxc.cn/api/php/yy.php?id=1355002394
-经典武侠台,http://cfss.cc/cdn/yy/1355002394.flv
-星光综合台,https://bd-flv.yy.com/live/15013_xv_1353422557_1353422557_0_0_0-15013_xa_1353422557_1353422557_0_0_0-0-0-0-0-0-1721320388893445.flv?codec=orig&appid=15013&rts_tk=854d26e84fb8b1ec527ae901a0fd6ac2&secret=5b188920739eca02041cfd05c2439d45&t=1721544850&stream_key=15013_xv_1353422557_1353422557_0_0_0&r_stream_key=15013_xa_1353422557_1353422557_0_0_0&channelid=1353422557&mtk=1&line_seq=6&cp_id=4&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter&playeruid=0&uuid=9870edde-08b9-4e81-8b12-2d8de4645ab8
-星光综合台,http://11.xmyxc.cn/api/php/yy.php?id=1353422557
-星光电影台,http://live.dxms.top/dwy/xgzht.php
-星光电影台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-重温经典,http://117.114.153.1:8180/TV00000000000000000007@HHZT
-1905电影(亚洲),http://live.dxms.top/dwy/hyyy.php
-1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
-1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
-天映频道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
-天映频道,https://histar-proxy.isus.cc/celestial
-天映经典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
-天映经典,https://histar-proxy.isus.cc/cccm
-美亚电影国,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
-美亚电影国,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亚电影粤,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-東森電影,https://bsex.serv00.net/Smart.php?id=ettvmovie
-東森电影台,mitv://135.148.104.228:19806/08435f286ac744a0942899c551209779
-東森电影台,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
-東森电影台,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
-東森电影台,p2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
-纬来电影台,mitv://135.148.104.228:19806/429796f5f00946fa933e400729286c7e
-纬来电影台,p2p://108.181.20.159:75326/62c860e50008ea96c1ae9a96599c6947 
-纬来电影台,mitv://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
-龙祥电影台,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
-龙祥电影台,mitv://135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a 
-龙华电影台,mitv://135.148.104.228:19806/1df6f5f0993a46faa17f676518654709 
-龙华电影台,mitv://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
-龙华电影台,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn03
-靖天电影台,mitv://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
-靖天电影台,mitv://135.148.104.228:19806/d8c581e0e1a24823a3d2110e3584ef8b 
-壹电视电影台,mitv://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352 
-壹电视电影台,mitv://135.148.104.228:19806/1be1329b6d124745a87a16de445d2352 
-影迷数位电影台,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6 
-影迷数位电影台,mitv://135.148.104.228:19806/bc069c037478448a9e41dbc3e1d5d0f6 
-金马影院,http://pull.kktv8.com/livekktv/128600025.flv
-好人影视,https://ali.hlspull.yximgs.com/live/1234566.flv
 
 
-🎬斗鱼影院👉全网,#genre#
+
+
+
+
+
+
 林正英 1,http://zzy789.xyz/douyu1.php?id=7356023
 林正英 2,http://zzy789.xyz/douyu1.php?id=218859
 刘德华电影1,http://zzy789.xyz/douyu1.php?id=2516864
