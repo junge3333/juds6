@@ -15,7 +15,6 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 经典武侠台,http://live.dxms.top/dwy/jdgf.php
 经典武侠台,http://11.xmyxc.cn/api/php/yy.php?id=1355002394
 经典武侠台,http://cfss.cc/cdn/yy/1355002394.flv
-星光综合台,https://bd-flv.yy.com/live/15013_xv_1353422557_1353422557_0_0_0-15013_xa_1353422557_1353422557_0_0_0-0-0-0-0-0-1721320388893445.flv?codec=orig&appid=15013&rts_tk=854d26e84fb8b1ec527ae901a0fd6ac2&secret=5b188920739eca02041cfd05c2439d45&t=1721544850&stream_key=15013_xv_1353422557_1353422557_0_0_0&r_stream_key=15013_xa_1353422557_1353422557_0_0_0&channelid=1353422557&mtk=1&line_seq=6&cp_id=4&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter&playeruid=0&uuid=9870edde-08b9-4e81-8b12-2d8de4645ab8
 星光综合台,http://11.xmyxc.cn/api/php/yy.php?id=1353422557
 星光电影台,http://live.dxms.top/dwy/xgzht.php
 星光电影台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
@@ -57,15 +56,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 
 林正英 1,http://159.75.85.63:35455/douyu/7356023
 林正英 2,http://159.75.85.63:35455/douyu/218859
-刘德华电影1,http://159.75.85.63:35455/douyu/2516864
-刘德华电影2,http://159.75.85.63:35455/douyu/8985415
-周星驰电影,http://159.75.85.63:35455/douyu/3990812
-怀旧90,http://159.75.85.63:35455/douyu/9275635
-经典怀旧,http://159.75.85.63:35455/douyu/10180265
-经典怀旧系列,http://159.75.85.63:35455/douyu/8663752
-经典港片,http://159.75.85.63:35455/douyu/675072
-喜剧经典,http://159.75.85.63:35455/douyu/9650887
-米娅电影,http://159.75.85.63:35455/douyu/6537888
+
 吃米滴虫,http://159.75.85.63:35455/douyu/315457
 吃奶滴虫,http://159.75.85.63:35455/douyu/263824
 冰冰经典电影,http://159.75.85.63:35455/douyu/74374
@@ -141,6 +132,15 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 纪录片,hhttp://159.75.85.63:35455/douyu/4360438
 贝爷求生,http://159.75.85.63:35455/douyu/454867
 恐怖丧尸鬼片,http://159.75.85.63:35455/douyu/263824
+刘德华电影1,http://159.75.85.63:35455/douyu/2516864
+刘德华电影2,http://159.75.85.63:35455/douyu/8985415
+周星驰电影,http://159.75.85.63:35455/douyu/3990812
+怀旧90,http://159.75.85.63:35455/douyu/9275635
+经典怀旧,http://159.75.85.63:35455/douyu/10180265
+经典怀旧系列,http://159.75.85.63:35455/douyu/8663752
+经典港片,http://159.75.85.63:35455/douyu/675072
+喜剧经典,http://159.75.85.63:35455/douyu/9650887
+米娅电影,http://159.75.85.63:35455/douyu/6537888
 斗鱼频道,http://159.75.85.63:35455/douyu/8770422
 斗鱼频道,http://159.75.85.63:35455/douyu/218859
 斗鱼频道,http://159.75.85.63:35455/douyu/413573
@@ -192,15 +192,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 
 林正英 1,http://zzy789.xyz/douyu1.php?id=7356023
 林正英 2,http://zzy789.xyz/douyu1.php?id=218859
-刘德华电影1,http://zzy789.xyz/douyu1.php?id=2516864
-刘德华电影2,http://zzy789.xyz/douyu1.php?id=8985415
-周星驰电影,http://zzy789.xyz/douyu1.php?id=3990812
-怀旧90,http://zzy789.xyz/douyu1.php?id=9275635
-经典怀旧,http://zzy789.xyz/douyu1.php?id=10180265
-经典怀旧系列,http://zzy789.xyz/douyu1.php?id=8663752
-经典港片,http://zzy789.xyz/douyu1.php?id=675072
-喜剧经典,http://zzy789.xyz/douyu1.php?id=9650887
-米娅电影,http://zzy789.xyz/douyu1.php?id=6537888
+
 吃米滴虫,http://zzy789.xyz/douyu1.php?id=315457
 吃奶滴虫,http://zzy789.xyz/douyu1.php?id=263824
 冰冰经典电影,http://zzy789.xyz/douyu1.php?id=74374
@@ -276,6 +268,15 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 纪录片,http://zzy789.xyz/douyu1.php?id=4360438
 贝爷求生,http://zzy789.xyz/douyu1.php?id=454867
 恐怖丧尸鬼片,http://zzy789.xyz/douyu1.php?id=263824
+刘德华电影1,http://zzy789.xyz/douyu1.php?id=2516864
+刘德华电影2,http://zzy789.xyz/douyu1.php?id=8985415
+周星驰电影,http://zzy789.xyz/douyu1.php?id=3990812
+怀旧90,http://zzy789.xyz/douyu1.php?id=9275635
+经典怀旧,http://zzy789.xyz/douyu1.php?id=10180265
+经典怀旧系列,http://zzy789.xyz/douyu1.php?id=8663752
+经典港片,http://zzy789.xyz/douyu1.php?id=675072
+喜剧经典,http://zzy789.xyz/douyu1.php?id=9650887
+米娅电影,http://zzy789.xyz/douyu1.php?id=6537888
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=218859
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=413573
