@@ -15,7 +15,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4f
 经典武侠台,http://live.dxms.top/dwy/jdgf.php
 经典武侠台,http://11.xmyxc.cn/api/php/yy.php?id=1355002394
 经典武侠台,http://cfss.cc/cdn/yy/1355002394.flv
-星光综合台,https://bd-flv.yy.com/live/15013_xv_1353422557_1353422557_0_0_0-15013_xa_1353422557_1353422557_0_0_0-0-0-0-0-0-1721742588232757.flv?codec=orig&appid=15013&rts_tk=46fd2312164ef1c298d4d434fab0dd74&secret=93cb27e9c533fa3f5e2df83197323cff&t=1721991162&stream_key=15013_xv_1353422557_1353422557_0_0_0&r_stream_key=15013_xa_1353422557_1353422557_0_0_0&channelid=1353422557&mtk=1&line_seq=6&cp_id=4&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter&playeruid=0&uuid=9870edde-08b9-4e81-8b12-2d8de4645ab8
+星光综合台,http://124.248.69.76:35455/yy/1353422557
 星光综合台,http://11.xmyxc.cn/api/php/yy.php?id=1353422557
 星光电影台,http://live.dxms.top/dwy/xgzht.php
 星光电影台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
